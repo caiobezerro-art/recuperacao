@@ -1,2 +1,2 @@
-# recupera-o
+# recuperação
 Recuperação de IA
